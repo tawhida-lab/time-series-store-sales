@@ -21,7 +21,9 @@ Prévoir les ventes quotidiennes d'un magasin en utilisant des modèles Time Ser
 - **LSTM** performant mais nécessite plus de données
 
 ## 🖼️ Visualisations
-![Comparaison des modèles](images/comparaison_modeles.png)
+![Comparaison des modèles](comparaison_modeles.png)
+![Ventes globales](courbe_globale.png)
+![Ventes magasin 1](courbe_store1.png)
 
 ## 🚀 Comment reproduire
 1. Cloner le repo
